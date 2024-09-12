@@ -10,7 +10,7 @@ public class Practice2{
         String name = scanner.nextLine();
 
         // 입력된 이름 출력
-        System.out.println("안녕하세요, " + name + "님!");
+        System.out.println("안녕하세요, " + name + "님. This is JAVA");
 
         // Scanner 객체 닫기
         scanner.close();
